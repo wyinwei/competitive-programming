@@ -1,0 +1,4 @@
+# Object files, class files and executables
+*.o
+*.exe
+*.class
